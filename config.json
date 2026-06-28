@@ -1,0 +1,5 @@
+{
+  "trial_mode_enabled": false,
+  "trial_limit": 20,
+  "payment_url": "https://gumroad.com/l/yourproduct"
+}
