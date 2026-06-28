@@ -2,7 +2,7 @@
   "trial_mode_enabled": true,
   "trial_limit": 20,
   "payment_url": "https://gumroad.com/l/yourproduct",
-  "global_block": true,
+  "global_block": false,
   "broadcast_message": "Welcome to AI Shorts Factory! Check out the new cartoon assets.",
   "broadcast_link": "https://yourwebsite.com/update",
   "active_license_keys": [
